@@ -1,0 +1,15 @@
+/* background */
+.content {
+    background-image: url('/users/mike/psychic-game/images/ball.png');
+    background-position: center center;
+    background-size: 100%;
+    overflow: hidden;
+    background-repeat:no-repeat;
+    color:red;
+    text-align: center;
+    margin-top:15%;
+
+}
+body {
+    background-image: url('/users/mike/psychic-game/images/psy.png');
+}
